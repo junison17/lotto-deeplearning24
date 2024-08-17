@@ -1,9 +1,7 @@
 streamlit
-pandas
-sqlite3  
+pandas 
 scikit-learn
 numpy
 joblib
 openai==0.28.1
 python-dotenv
-os
